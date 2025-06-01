@@ -1,0 +1,42 @@
+{
+  "os": "macOS-15.5-arm64-arm-64bit",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-05-31T14:06:18.855613Z",
+  "program": "-m tests.train_transformer",
+  "git": {
+    "remote": "https://github.com/stanford-cs336/assignment1-basics.git",
+    "commit": "1076cb9741ca280afd71e6d768ddd09ab42e9c4d"
+  },
+  "email": "hongyanlin29@gmail.com",
+  "root": "/Users/linhongyan/Projects/assignment1-basics",
+  "host": "linhongyandeMacBook-Pro.local",
+  "executable": "/opt/homebrew/anaconda3/bin/python",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "71638732800"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "71638732800"
+    }
+  },
+  "memory": {
+    "total": "34359738368"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "apple": {
+    "name": "Apple M4",
+    "ecpuCores": 6,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 32,
+    "swapTotalBytes": "2147483648",
+    "ramTotalBytes": "34359738368"
+  }
+}

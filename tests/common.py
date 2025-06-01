@@ -4,7 +4,7 @@ import pathlib
 from functools import lru_cache
 
 FIXTURES_PATH = (pathlib.Path(__file__).resolve().parent) / "fixtures"
-
+# CS336_BASICS_PATH = (pathlib.Path(__file__).resolve().parent.parent) / "cs33_basics"
 
 @lru_cache
 def gpt2_bytes_to_unicode() -> dict[int, str]:
